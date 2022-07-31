@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{CC676CF5-4D92-46FE-A5F2-4A6C46E25F52}|Default">
+  <MonoDevelop.Ide.ItemProperties.RepuestoAutomotrizApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RepuestoAutomotrizApp/GeneralCars.cs">
+    <Files>
+      <File FileName="RepuestoAutomotrizApp/GeneralCars.cs" Line="26" Column="36" />
+      <File FileName="RepuestoAutomotrizApp/IAutomotriz.cs" Line="1" Column="1" />
+      <File FileName="RepuestoAutomotrizApp/BMW/BMWAxial.cs" Line="29" Column="13" />
+      <File FileName="RepuestoAutomotrizApp/BMW/BMWRotula.cs" Line="30" Column="113" />
+      <File FileName="RepuestoAutomotrizApp/BMW/BMWTerminal.cs" Line="33" Column="1" />
+      <File FileName="RepuestoAutomotrizApp/Jac/RenaultAxial.cs" Line="32" Column="113" />
+      <File FileName="RepuestoAutomotrizApp/Jac/JacRotula.cs" Line="31" Column="113" />
+      <File FileName="RepuestoAutomotrizApp/Jac/JacTerminal.cs" Line="31" Column="113" />
+      <File FileName="RepuestoAutomotrizApp/Volvo/VolvoAxial.cs" Line="31" Column="113" />
+      <File FileName="RepuestoAutomotrizApp/Volvo/VolvoRotula.cs" Line="29" Column="113" />
+      <File FileName="RepuestoAutomotrizApp/Volvo/VolvoTerminal.cs" Line="26" Column="53" />
+      <File FileName="RepuestoAutomotrizApp/Repuesto/Axial.cs" Line="1" Column="1" />
+      <File FileName="RepuestoAutomotrizApp/Repuesto/IRepuesto.cs" Line="1" Column="1" />
+      <File FileName="RepuestoAutomotrizApp/Repuesto/Rotula.cs" Line="1" Column="1" />
+      <File FileName="RepuestoAutomotrizApp/Repuesto/Terminal.cs" Line="1" Column="1" />
+      <File FileName="RepuestoAutomotrizApp/AutomotrizHonda.cs" Line="11" Column="45" />
+      <File FileName="RepuestoAutomotrizApp/AutomotrizKia.cs" Line="25" Column="27" />
+      <File FileName="RepuestoAutomotrizApp/AutomotrizRenault.cs" Line="22" Column="1" />
+      <File FileName="RepuestoAutomotrizApp/Program.cs" Line="12" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RepuestoAutomotrizApp" expanded="True">
+            <Node name="RepuestoAutomotrizApp" expanded="True">
+              <Node name="BMW" expanded="True" />
+              <Node name="Jac" expanded="True" />
+              <Node name="Repuesto" expanded="True" />
+              <Node name="Volvo" expanded="True" />
+              <Node name="GeneralCars.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
